@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "plaka": "34ABC123",
+    "arac_tipi": "Binek",
+    "surucu": "Ahmet Yılmaz"
+  },
+  {
+    "id": 2,
+    "plaka": "06XYZ789",
+    "arac_tipi": "Ticari",
+    "surucu": "Mehmet Demir"
+  },
+  {
+    "id": 3,
+    "plaka": "35KLM456",
+    "arac_tipi": "Kamyonet",
+    "surucu": "Ayşe Kara"
+  }
+]
